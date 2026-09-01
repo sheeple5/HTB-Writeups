@@ -10,7 +10,7 @@ tags:
   - Directory_Busting
   - Camaleon
 ---
-![banner.png](banner.png)
+![banner.png](Images/banner.png)
 
 ## User
 
